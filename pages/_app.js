@@ -1,3 +1,4 @@
+import 'styles/globals.css'
 import Layout from 'component/layout'
 
 export default function MyApp({ Component, pageProps }) {
