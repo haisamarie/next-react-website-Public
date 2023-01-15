@@ -1,0 +1,9 @@
+.default {
+  width: 92%;
+  max-width: 1152px;
+  margin: 0 auto;
+}
+.large {
+  compses: default;
+  max-width: 1152px;
+}
